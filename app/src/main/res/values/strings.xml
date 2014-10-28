@@ -2,7 +2,10 @@
 <resources>
 
     <string name="app_name">Fun Facts</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="header_top">Hello App</string>
+    <string name="header_center">Hello App</string>
+    <string name="btn_response">Response</string>
+    <string name="btn_return">Return</string>
     <string name="action_settings">Settings</string>
 
 </resources>
