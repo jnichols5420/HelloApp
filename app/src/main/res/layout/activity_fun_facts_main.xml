@@ -30,7 +30,7 @@
         android:background="@drawable/button_rounded"
         android:textStyle="bold"
         android:paddingLeft="5dp"
-        android:paddingRight="6dp" />
+        android:paddingRight="5dp" />
 
     <Button
         android:id="@+id/btnCancel"
