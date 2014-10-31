@@ -11,10 +11,10 @@
     android:id="@+id/fun_fact_questions">
 
     <TextView
+        android:id="@+id/mainHeaderTop"
         android:text="@string/header_top"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/mainHeaderTop"
         android:textColor="@android:color/holo_blue_dark"
         android:layout_centerHorizontal="true"
         android:textSize="36sp" />
