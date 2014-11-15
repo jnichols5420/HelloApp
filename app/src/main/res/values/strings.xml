@@ -5,12 +5,17 @@
     <string name="header_top">Hello App</string>
     <string name="header_center">Hello App</string>
     <string name="btn_response">Response</string>
+    <string name="did_you_know">Did You Know...</string>
+    <string name="field_response"></string>
+
     <string name="btn_return">Return</string>
     <string name="action_settings">Settings</string>
     <string-array name="random_fact_array">
-        <item>Cow</item>
-        <item>Pig</item>
-        <item>Bird</item>
-        <item>Sheep</item>
+        <item>Android was initially developed by Android inc. and later acquired by Google?</item>
+        <item>Android belongs to UNIX OS family though not certified to any version of the Single UNIX specification?</item>
+        <item>Though primarily made for phones and tablets, it has also been used in televisions, cameras, gaming consoles and other electronic devices?</item>
+        <item>Android Inc. was founded by Andy Rubin, Nick Sears, Chris White and Nick Sears in California in October 2003?</item>
+        <item>Android is BETTER than iOS?</item>
+
     </string-array>
 </resources>
