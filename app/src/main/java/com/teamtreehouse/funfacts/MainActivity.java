@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.Random;
 
 
-public class FunFactsActivity extends Activity {
+public class MainActivity extends Activity {
 //Activity -
 
     /** Called when the activity is first created. */
